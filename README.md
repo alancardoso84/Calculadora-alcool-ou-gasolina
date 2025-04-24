@@ -5,7 +5,7 @@ Site simples que ajuda motoristas a decidirem se vale mais a pena abastecer com 
 ## Como usar
 
 1. Preencha os dois campos com os preços atuais.
-2. Clique em "Calcular".
+2. Clique em "Calcular / Calcular novamente".
 3. O resultado aparecerá instantaneamente.
 
 ## Publicação

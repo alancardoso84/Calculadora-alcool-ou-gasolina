@@ -15,9 +15,14 @@ body {
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
+.inputs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 input {
-  display: block;
-  width: 100%;
+  width: 80%;
   margin: 10px 0;
   padding: 10px;
   font-size: 16px;
@@ -37,7 +42,7 @@ button {
   margin-top: 20px;
 }
 
-#doacao a {
+.doacao a {
   display: inline-block;
   margin-top: 8px;
   background: #28a745;

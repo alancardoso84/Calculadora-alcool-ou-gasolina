@@ -51,3 +51,22 @@ button {
   border-radius: 6px;
   text-decoration: none;
 }
+
+.resultado {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.resultado.gasolina {
+  color: white;
+  background-color: #007bff;
+}
+
+.resultado.alcool {
+  color: white;
+  background-color: #28a745;
+}
